@@ -2,7 +2,7 @@ Python Version:
 3.10.15
 
 使用方法:
-pip install requirements.txt
+pip install -r requirements.txt
 
 功能：
 1. 自动检测游戏视频中的正常片段
